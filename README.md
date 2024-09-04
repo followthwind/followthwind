@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**followthwind/followthwind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭 I’m currently study Technology Information<br>🌱 I’m currently learning Cyber Security<br>💬 Ask me about Arch Linux
 
