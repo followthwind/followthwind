@@ -3,6 +3,9 @@
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
+<div class="badge-base LI-profile-badge" data-locale="in_ID" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="fauzan-a280891a5" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/fauzan-a280891a5?trk=profile-badge">Fauzan .</a></div>
+              
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/followthwind) 
 
