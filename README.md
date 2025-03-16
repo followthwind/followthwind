@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently study Technology Information<br>🌱 I’m currently learning Cyber Security<br>💬 Ask me about Arch Linux
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/followthwind) 
