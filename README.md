@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently study Technology Information<br>🌱 I’m currently learning Cyber Security<br>💬 Ask me about Arch Linux
+I am a Full-Stack Developer focusing on the MERN Stack (MongoDB, Express.js, React, Node.js). I enjoy building functional and user-friendly web applications, continuously improving my coding skills, and exploring best practices in software development.
+
+Currently, I am learning AWS, Docker, Kubernetes, and CI/CD to better understand cloud deployment and scalable architectures. I have built several small projects that match my initial goals, and I am constantly refining my approach to code efficiency and optimization.
+
+I am always eager to grow, collaborate, and learn from experienced developers. Let’s connect and build something great together!
 
 
 ## 🌐 Socials:
